@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - generalbullet
+  - leadbullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemy
+  - bullet
+  - enemybullet
+  - player
+  - boom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: character
+    uniqueID: 2709442473
+    locked: 0
+  - name: bullet
+    uniqueID: 2209286533
+    locked: 0
+  - name: bulleteffect
+    uniqueID: 3712160711
+    locked: 0
+  - name: determine
+    uniqueID: 3777657269
+    locked: 0
